@@ -1,4 +1,4 @@
-package tuank.holy;
+package tunak.holy;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("tuank.holy", appContext.getPackageName());
+        assertEquals("tunak.holy", appContext.getPackageName());
     }
 }

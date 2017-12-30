@@ -1,4 +1,4 @@
-package tuank.holy;
+package tunak.holy;
 
 import org.junit.Test;
 

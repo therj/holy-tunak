@@ -1,4 +1,4 @@
-package tuank.holy;
+package tunak.holy;
 
 import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;
